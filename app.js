@@ -447,7 +447,12 @@ const MOCK_PRODUCTS_DATABASE = [
             "Chapter 12: Evading IDS, Firewalls, and Honeypot Environments",
             "Chapter 13: Hacking Web Servers and Vulnerability Identification",
             "Chapter 14: Hacking Web Applications and API Endpoints",
-            "Chapter 15: SQL Injection Mechanics and Prevention Protocols"
+            "Chapter 15: SQL Injection Mechanics and Prevention Protocols",
+            "Chapter 16: Hacking Wireless Networks – Wi-Fi encryption cracking (WEP/WPA)",
+            "Chapter 17: Hacking Mobile Platforms – Android/iOS attack vectors and application flaws",
+            "Chapter 18: IoT and OT Hacking – Operational technology and smart device security",
+            "Chapter 19: Cloud Computing – Container, serverless, and multi-cloud security",
+            "Chapter 20: Cryptographic Attacks – Cryptanalysis, PKI flaws, and SSL/TLS weaknesses"
         ]
     },
     {
